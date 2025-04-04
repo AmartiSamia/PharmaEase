@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Pharmacy AL FARAJ",
+    "address": "Route Boukhalef, Complexe Al Irfane II",
+    "phoneNumber": "+212 5 39 39 28 44",
+    "latitude": 35.737402806104086,
+    "longitude": -5.883576214232807
+  },
+  {
+    "name": "Pharmacy ANFA",
+    "address": "23, Avenue Haroun Errachid",
+    "phoneNumber": "+212 5 39 33 12 88",
+    "latitude": 35.768910799025925,
+    "longitude": -5.8170893682816835
+  },
+  {
+    "name": "Pharmacy Chair",
+    "address": "Sania Kedima",
+    "phoneNumber": "+212 5 39 30 26 52",
+    "latitude": 35.77792317284431,
+    "longitude": -5.754014253616333
+  },
+  {
+    "name": "Pharmacy COMPLEXE AL HASSANI",
+    "address": "Route des FAR, Complexe Al Hassani",
+    "phoneNumber": "+212 5 39 31 61 16",
+    "latitude": 35.73694103996178,
+    "longitude": -5.855724756937049
+  },
+  {
+    "name": "Pharmacy DAR TOUNSI",
+    "address": "146, Lot. Annahda, Dar Tounsi",
+    "phoneNumber": "+212 5 39 35 29 48",
+    "latitude": 35.75263620732199,
+    "longitude": -5.798787670956074
+  },
+
+  {
+    "name": "Pharmacy El Mesnaoui",
+    "address": "Sidi Driss Mers Achenad",
+    "phoneNumber": "+212 5 39 30 72 30",
+    "latitude": 35.73475827439813,
+    "longitude": -5.827431678771973
+  },
+  {
+    "name": "Pharmacy HOMRANI",
+    "address": "Avenue Mohamed V, Macdo",
+    "phoneNumber": "+212 5 39 30 10 51",
+    "latitude": 35.77514328209679,
+    "longitude": -5.786739977092552
+  },
+  {
+    "name": "Pharmacy Sekka Aouama",
+    "address": "Quartier de Sekka, Mrabet Charkia, Aouama",
+    "phoneNumber": "+212 06 20 28 35 90",
+    "latitude": 35.73223401085882,
+    "longitude": -5.794585011899471
+  }
+]

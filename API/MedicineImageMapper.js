@@ -1,0 +1,27 @@
+// MedicineImageMapper.js
+export const imageMapper = {
+  "../assets/Medicaments/Doliprane.png": require("../assets/Medicaments/Doliprane.png"),
+  "../assets/Medicaments/Efferalgan.png": require("../assets/Medicaments/Efferalgan.png"),
+  "../assets/Medicaments/aspro.png":require("../assets/Medicaments/aspro.png"),
+  "../assets/Medicaments/Dafalgan.jpg":require("../assets/Medicaments/Dafalgan.jpg"),
+  "../assets/Medicaments/Imodium.jpg":require("../assets/Medicaments/Imodium.jpg"),
+  "../assets/Medicaments/Kargedic.webp":require("../assets/Medicaments/Kargedic.webp"),
+  "../assets/Medicaments/Spasfon.jpg":require("../assets/Medicaments/Spasfon.jpg"),
+  "../assets/Medicaments/Spedifen.png":require("../assets/Medicaments/Spedifen.png"),
+  "../assets/Medicaments/Voltaren.png":require("../assets/Medicaments/Voltaren.png"),
+  "../assets/Medicaments/daflon.jpg" :require("../assets/Medicaments/daflon.jpg" ),
+  "../assets/Medicaments/drill.jpg" :require("../assets/Medicaments/drill.jpg"),
+  "../assets/Medicaments/antarene.jpg" :require("../assets/Medicaments/antarene.jpg"),
+  "../assets/Medicaments/aspegic.jpg" :require("../assets/Medicaments/aspegic.jpg"),
+  "../assets/Medicaments/bepanthen.jpg" :require("../assets/Medicaments/bepanthen.jpg"),
+  "../assets/Medicaments/dolirhume.jpg" :require("../assets/Medicaments/dolirhume.jpg"),
+  "../assets/Medicaments/Forlax.png" :require("../assets/Medicaments/Forlax.png"),
+  "../assets/Medicaments/Gaviscon.jpg" :require("../assets/Medicaments/Gaviscon.jpg"),
+  "../assets/Medicaments/humex.jpg" :require("../assets/Medicaments/humex.jpg" ),
+  "../assets/Medicaments/magne.jpg" :require( "../assets/Medicaments/magne.jpg"),
+  "../assets/Medicaments/maxilase.jpg" :require("../assets/Medicaments/maxilase.jpg"),
+  "../assets/Medicaments/rhinofabral.jpg" :require( "../assets/Medicaments/rhinofabral.jpg"),
+  "../assets/Medicaments/speciafoldine.jpg" :require("../assets/Medicaments/speciafoldine.jpg"),
+  "../assets/Medicaments/Otipax.png" :require("../assets/Medicaments/Otipax.png"),
+  // Add other image mappings here as needed
+};

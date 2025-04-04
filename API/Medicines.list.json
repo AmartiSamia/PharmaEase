@@ -1,0 +1,258 @@
+[
+  {
+    "name": "DOLIPRANE 1000 mg tablet",
+    "Price": "19 MAD",
+    "Pcs": "8pcs",
+    "Reason": "Pain and fever - Adults and adolescents >50kg",
+    "Pregnant": "Allowed",
+    "Breastfeeding": "Allowed",
+    "Form": "Tablets",
+    "Desc": "Doliprane 1000 mg tablet is used as an analgesic and antipyretic. It contains paracetamol and is indicated for reducing fever or relieving pain such as headaches, dental pain, menstrual pain, or flu symptoms. It can also be prescribed for arthritis-related pain. This form is reserved for adults and children weighing more than 50 kg (from 15 years old). Each Doliprane tablet contains 1000 mg of paracetamol. Excipients include povidone, pregelatinized starch, sodium carboxymethyl starch (type A), talc, and magnesium stearate.",
+    "Picture": "../assets/Medicaments/Doliprane.png"
+  },
+  {
+    "name": "EFFERALGAN 1000 mg tablet",
+    "Price": "19 MAD",
+    "Pcs": "8pcs",
+    "Reason": "Pain and fever - Adults and adolescents >50kg",
+    "Pregnant": "Allowed",
+    "Breastfeeding": "Allowed",
+    "Form": "Effervescent tablets",
+    "Desc": "Efferalgan 1000 mg effervescent tablet contains paracetamol and is indicated for treating fever and pain such as headaches, dental pain, body aches, flu symptoms, or menstrual pain. It can also be prescribed for arthritis pain. It is reserved for adults and children over 50 kg (approximately 15 years old). Each tablet contains 1000 mg of paracetamol. Other components include anhydrous citric acid, sodium bicarbonate, anhydrous sodium carbonate, sorbitol, sodium docusate, povidone, sodium benzoate, anhydrous lactose, orange/grapefruit flavor, aspartame, acesulfame potassium.",
+    "Picture": "../assets/Medicaments/Efferalgan.png"
+  },
+  {
+    "name": "Aspro 500 mg effervescent tablets",
+    "Price": "80 MAD",
+    "Pcs": "36pcs",
+    "Reason": "Pain and aches - Adults and children >30kg",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Effervescent tablets",
+    "Desc": "Aspro 500 mg is an effervescent medication with analgesic properties to relieve pain and antipyretic properties to reduce fever. It contains aspirin and is indicated for managing pain and/or fever such as headaches, flu symptoms, dental pain, body aches. The active ingredient per effervescent tablet is acetylsalicylic acid 500 mg. Other components include mannitol, malic acid, polyvidone, sodium dioctyl sulfosuccinate, citric acid, sodium bicarbonate, sodium carbonate, sodium saccharinate, lemon flavor** (contains sucrose). It is reserved for adults and children over 30 kg (approximately 9 to 15 years old).",
+    "Picture": "../assets/Medicaments/aspro.png"
+  },
+  {
+    "name": "DAFALGAN 1000 mg tablet",
+    "Price": "14.90 MAD",
+    "Pcs": "8 tablets",
+    "Reason": "Paracetamol - Pain and fever - Adults and adolescents >50kg",
+    "Pregnant": "Allowed",
+    "Breastfeeding": "Allowed",
+    "Form": "Effervescent tablets",
+    "Desc": "Dafalgan 1000 mg tablets contain 1000 mg of paracetamol. It is used to relieve pain and reduce fever. Indicated for pain/fever such as body aches, dental pain, headaches, flu symptoms, menstrual pain. Dafalgan 1g is reserved for adults and children over 50 kg (approximately 15 years old). Below 50 kg, the 500 mg paracetamol dosage should be chosen. Other components include hydroxypropylcellulose, croscarmellose sodium, glyceryl behenate, magnesium stearate, colloidal anhydrous silica. The coating includes hypromellose (E464), titanium dioxide (E171), propylene glycol (E1520).",
+    "Picture": "../assets/Medicaments/Dafalgan.jpg"
+  },
+  {
+    "name": "Imodium Lingual anti-diarrhea",
+    "Price": "28.50 MAD",
+    "Pcs": "12 tablets",
+    "Reason": "Antidiarrheal - From 15 years old",
+    "Pregnant": "On medical advice",
+    "Breastfeeding": "On medical advice",
+    "Form": "Orodispersible tablets",
+    "Desc": "Imodium Lingual 2 mg is an antidiarrheal medication indicated for short-term treatment of acute transient diarrhea in adults and children over 15 years old. It complements hygienic and dietary measures. The active ingredient is loperamide hydrochloride, dosed at 2 mg per oral lyophilizate. Other components include gelatin, aspartame (E951), mint flavor, sodium bicarbonate, and mannitol.",
+    "Picture": "../assets/Medicaments/Imodium.jpg"
+  },
+  {
+    "name": "Kardegic 75 mg sachet",
+    "Price": "35.70 MAD",
+    "Pcs": "30 sachets",
+    "Reason": "Aspirin - Cardiovascular prevention - Adults",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Sachets",
+    "Desc": "Kardegic 75 mg is formulated with aspirin. This dosage is particularly aimed at treating certain vascular and heart conditions. It can be administered alone or with other treatments prescribed by your doctor. Use of this medication should not begin without medical advice. The active ingredient is DL-Lysine acetylsalicylate at 135 mg, corresponding to 75 mg of acetylsalicylic acid per sachet. Other components include glycine, mandarin flavor, and ammonium glycyrrhizinate.",
+    "Picture": "../assets/Medicaments/Kargedic.webp"
+  },
+  {
+    "name": "Spasfon tablet for abdominal pain",
+    "Price": "25.70 MAD",
+    "Pcs": "30 tablets",
+    "Reason": "Spasmodic pain - From 6 years old",
+    "Pregnant": "On medical advice",
+    "Breastfeeding": "Not allowed",
+    "Form": "Tablets",
+    "Desc": "Spasfon tablets contain phloroglucinol and belong to the antispasmodic family. It can be used from 6 years old to treat spasmodic pain of the intestines (abdominal spasms), bile ducts, bladder, and uterus (including menstrual pain). Spasfon tablets contain 80 mg of phloroglucinol hydrate and 80 mg of trimethylphloroglucinol. Other components include lactose monohydrate, sucrose, polyvinyl acetate, wheat starch, stearic acid, magnesium stearate. The characteristic pink coating includes polyvinyl acetate, talc, sucrose, arabic gum, gelatin, titanium dioxide (E171), erythrosine (E127), carnauba wax.",
+    "Picture": "../assets/Medicaments/Spasfon.jpg"
+  },
+  {
+    "name": "SPEDIFEN",
+    "Price": "33.00 MAD",
+    "Pcs": "12 tablets",
+    "Reason": "Pain and fever - Adults and children >30kg",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "On medical advice",
+    "Form": "Tablets",
+    "Desc": "Spedifen 400 mg is reserved for adults and children over 30 kg. These tablets contain a non-steroidal anti-inflammatory drug: ibuprofen. This analgesic is used for fever and pain such as dental pain, body aches, headaches, menstrual pain, or flu symptoms. After medical advice, Spedifen 400 can also be taken to treat mild or moderate migraine attacks, with or without aura.",
+    "Picture": "../assets/Medicaments/Spedifen.png"
+  },
+  {
+    "name": "Voltaren Emulgel 1% anti-inflammatory gel",
+    "Price": "48.60 MAD",
+    "Pcs": "50 g",
+    "Reason": "Sprains, tendinitis, osteoarthritis - Muscle pain - Adults",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Gel",
+    "Desc": "Voltaren gel contains 1% diclofenac, an anti-inflammatory and analgesic active ingredient that relieves pain. This medication is available without a prescription and is reserved for adults from 15 years old. Voltaren gel is recommended for tendinitis of the upper and lower limbs, post-operative or traumatic edema (sprain, contusion), and pain relief from osteoarthritis of the fingers and knees. Excipients include diethylamine, carbomer 974 P, macrogol cetostearyl ether, caprylic/capric acid esters with C12-C18 alcohols, isopropyl alcohol, liquid paraffin, cream perfume 45, propylene glycol, purified water.",
+    "Picture": "../assets/Medicaments/Voltaren.png"
+  },
+  {
+    "name": "Forlax 10 g sachet",
+    "Price": "68.70 MAD",
+    "Pcs": "20 sachets",
+    "Reason": "Constipation: osmotic laxative - From 8 years old",
+    "Pregnant": "Allowed",
+    "Breastfeeding": "Allowed",
+    "Form": "Sachets",
+    "Desc": "Forlax 10g sachets contain the active ingredient macrogol 4000. This laxative is sold without a prescription and belongs to the family of osmotic laxatives. Forlax helps to increase the amount of water in the stool, which helps to resolve constipation issues related to slow intestinal transit. Forlax can be used in adults and children from 8 years old to manage constipation.",
+    "Picture": "../assets/Medicaments/Forlax.png"
+  },
+  {
+    "name": "Magné B6 magnesium tablet",
+    "Price": "44.00 MAD",
+    "Pcs": "60 tablets",
+    "Reason": "Magnesium deficiency - From 6 years old",
+    "Pregnant": "Medical advice required",
+    "Breastfeeding": "Medical advice required",
+    "Form": "Tablets",
+    "Desc": "Magné B6 tablets are available without a prescription and contain 48 mg (1.97 mmol) of magnesium and 5 mg of vitamin B6 (pyridoxine hydrochloride). The magnesium is in the form of magnesium lactate dihydrate (470 mg). This medication is indicated for confirmed magnesium deficiencies diagnosed by your doctor. It is intended for adults and children from 6 years old. The excipients present in Magné B6 tablets include sucrose, heavy kaolin, gum arabic, carboxypolymethylene, talc, magnesium stearate, titanium dioxide (E171), and carnauba wax powder. Magnesium deficiency can be primary due to congenital metabolic anomaly (chronic congenital hypomagnesemia) or secondary due to insufficient intake (severe malnutrition, alcoholism, exclusive parenteral nutrition) or digestive malabsorption (chronic diarrhea, digestive fistulas, hypoparathyroidism) or increased renal loss (tubulopathies, significant polyuria, diuretic abuse, chronic pyelonephritis, primary hyperaldosteronism, cisplatin treatment). Magnesium is involved in neuromuscular transmission, numerous enzymatic reactions, and as a constituent element of bone capital.",
+    "Picture": "../assets/Medicaments/magne.jpg"
+  },
+  {
+    "name": "Gaviscon Mint Flavor Oral Suspension Sachet",
+    "Price": "45.20 MAD",
+    "Pcs": "20 sachets",
+    "Reason": "Heartburn, acid reflux - Adult",
+    "Pregnant": "Allowed",
+    "Breastfeeding": "Allowed",
+    "Form": "Sachets",
+    "Desc": "Gaviscon sachet is an antacid medication that treats gastroesophageal reflux. It relieves heartburn, acid reflux, and stomach acid discomfort. Each sachet contains the active ingredients sodium alginate (500 mg) and sodium bicarbonate (267 mg). Other constituents include calcium carbonate, carbomer (974P), saccharin sodium, natural mint flavor, sodium hydroxide, purified water, methyl parahydroxybenzoate (E 218), and propyl parahydroxybenzoate (E 216).",
+    "Picture": "../assets/Medicaments/Gaviscon.jpg"
+  },
+  {
+    "name": "Daflon 1000 mg Hemorrhoids Tablet",
+    "Price": "114.70 MAD",
+    "Pcs": "18 tablets",
+    "Reason": "Hemorrhoidal crisis - Adult",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Tablets",
+    "Desc": "Daflon 1000mg is a venotonic medication that increases venous tone and provides vasoprotection, increasing the resistance of small blood vessels. It is indicated for the treatment of symptoms related to hemorrhoidal crisis. The active ingredient is Flavonoid fraction 1000 mg. Other components include sodium carboxymethyl starch, microcrystalline cellulose, gelatin, magnesium stearate, talc. The film coating contains titanium dioxide (E171), glycerol, sodium lauryl sulfate, macrogol 6000, hypromellose, yellow iron oxide (E172), red iron oxide (E172), magnesium stearate.",
+    "Picture": "../assets/Medicaments/daflon.jpg"
+  },
+  {
+    "name": "Antarène 5% Gel",
+    "Price": "36.20 MAD",
+    "Pcs": "50g",
+    "Reason": "Tendonitis, sprains, contusions - From 15 years old",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Medical advice required",
+    "Form": "Gel",
+    "Desc": "Antarène 5% gel is a topical medication containing the non-steroidal anti-inflammatory drug ibuprofen. It is indicated for short-term local treatment of minor trauma (minor sprains, contusions) and tendonitis (inflammation of the tendons) in adults over 15 years old. Composition: Ibuprofen 5.00 g, excipients q.s. 100 g: hydroxyethylcellulose, sodium hydroxide, benzyl alcohol, isopropyl alcohol, purified water.",
+    "Picture": "../assets/Medicaments/antarene.jpg"
+  },
+  {
+    "name": "Aspégic 1000 Adult Sachet",
+    "Price": "28.80 MAD",
+    "Pcs": "20 sachets",
+    "Reason": "Aspirin - Pain and fever - From 15 years old",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Medical advice required",
+    "Form": "Sachets",
+    "Desc": "Aspégic 1000 mg is an antipyretic and analgesic medication containing aspirin. Aspégic 1000 mg is used for pain and/or fever such as headaches, flu-like conditions, dental pain, muscle aches, and in the treatment of certain rheumatic conditions. It is intended for adults from 15 years old. Each sachet contains 1800 mg of DL-Lysine acetylsalicylate, corresponding to 1000 mg of acetylsalicylic acid.",
+    "Picture": "../assets/Medicaments/aspegic.jpg"
+  },
+  {
+    "name": "Spéciafoldine 0.4 mg Tablets",
+    "Price": "24.50 MAD",
+    "Pcs": "28 tablets",
+    "Reason": "Folic acid: prevention of embryonic anomalies",
+    "Pregnant": "Medical advice required",
+    "Breastfeeding": "Medical advice required",
+    "Form": "Tablets",
+    "Desc": "Spéciafoldine 0.4 mg tablets from Serb laboratories contain folic acid or vitamin B9. They are indicated for women who are planning a pregnancy, for the primary prevention of neural tube defects (NTDs: spina bifida). For women with a personal or family history of NTDs or treated with certain antiepileptic drugs, another dosage is recommended.",
+    "Picture": "../assets/Medicaments/speciafoldine.jpg"
+  },
+  {
+    "name": "Bepanthen Ointment 5%",
+    "Price": "99.00 MAD",
+    "Pcs": "30g",
+    "Reason": "Irritations, diaper rash - From birth",
+    "Pregnant": "Medical advice required",
+    "Breastfeeding": "Medical advice required",
+    "Form": "Ointment",
+    "Desc": "Bepanthen 5% ointment is indicated for the treatment of skin irritation, particularly in cases of diaper rash in infants. Skin irritations result from damage to the skin's protective barrier and manifest as redness, peeling, or cracking. They can be caused by products, friction, cold, etc. The ointment contains 5.0 g of Dexpanthenol per 100 g. Other ingredients include Protegin X®, vaseline, lanolin, white beeswax, almond oil, cetyl alcohol, stearyl alcohol, liquid paraffin, and purified water. Protegin X® is composed of light liquid paraffin, vaseline, microcrystalline wax (THG), glyceryl monooleate, and lanolin alcohols.",
+    "Picture": "../assets/Medicaments/bepanthen.jpg"
+  },
+  {
+    "name": "Humex Allergy Cetirizine 10 mg Tablets",
+    "Price": "31.80 MAD",
+    "Pcs": "7 tablets",
+    "Reason": "Allergic rhinitis, irritated eyes, redness - From 6 years old",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Tablets",
+    "Desc": "Humex Allergy Cetirizine 10 mg is a medication available in the form of scored tablets. It is suitable for adults and children from 6 years old and indicated for the treatment of symptoms of allergic rhinitis (stuffy nose, nasal itching, successive sneezes, colorless nasal discharge, eye irritation) and chronic idiopathic urticaria (hives). Consult your doctor or pharmacist for chronic idiopathic urticaria.",
+    "Picture": "../assets/Medicaments/humex.jpg"
+ 
+
+  },
+  
+  {
+    "name": "Rhinofebral Day and Night Sachet",
+    "Price": "13.40 MAD",
+    "Pcs": "12 sachets",
+    "Reason": "Cold, flu-like symptoms from 15 years old",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Sachets",
+    "Desc": "Rhinofebral Day and Night is a medication indicated for colds, rhinitis, rhinopharyngitis, and flu-like symptoms, relieving associated symptoms such as headaches, fever, tearing, sneezing, and clear nasal discharge. It is suitable for adults and children from 15 years old. The Rhinofebral Day and Night sachets contain paracetamol and pheniramine. Active substances per 5 g Day sachet: Paracetamol 500 mg, Ascorbic acid (vitamin C) 200 mg, Pheniramine maleate 25 mg. Active substances per 5 g Night sachet: Paracetamol 500 mg, Pheniramine maleate 25 mg. Notable excipient: aspartame (source of phenylalanine) (E951).",
+    "Picture": "../assets/Medicaments/rhinofabral.jpg"
+  },
+  {
+    "name": "Dolirhume Tablets",
+    "Price": "17.10 MAD",
+    "Pcs": "16 tablets",
+    "Reason": "Cold - From 15 years old",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Tablets",
+    "Desc": "Dolirhume is a medication recommended for the treatment of colds in adults and adolescents over 15 years old. It contains a nasal vasoconstrictor (pseudoephedrine) and an analgesic (paracetamol). It helps decongest and relieve the sensation of a blocked nose, alleviate headaches, and reduce fever. The active substances in Dolirhume are paracetamol (500 mg) and pseudoephedrine hydrochloride (30 mg), equivalent to 24.57 mg of pseudoephedrine base. It also contains excipients such as wheat starch, potato starch, sodium carboxymethylstarch, lactose, and magnesium stearate.",
+    "Picture": "../assets/Medicaments/dolirhume.jpg"
+  },
+  {
+    "name": "Drill Honey Lemon Sugar-Free Lozenges",
+    "Price": "23.40 MAD",
+    "Pcs": "24 lozenges",
+    "Reason": "Sore throat - From 6 years old",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Lozenges",
+    "Desc": "Drill sugar-free honey lemon lozenges are used for mild sore throats without fever and to relieve mouth ulcers and small mouth wounds. This over-the-counter throat medication is intended for adults and children from 6 years old. Drill lozenges contain an anesthetic (tetracaine) to reduce pain and a local antiseptic (chlorhexidine) that acts against bacteria and viruses in the ENT area.",
+    "Picture": "../assets/Medicaments/drill.jpg"
+  },
+  {
+    "name": "Otipax Ear Drops",
+    "Price": "18.90 MAD",
+    "Pcs": "15 ml",
+    "Reason": "Otitis with intact eardrum - Adults and children",
+    "Pregnant": "Allowed",
+    "Breastfeeding": "Allowed",
+    "Form": "Ear drops",
+    "Desc": "Otipax ear drop solution is indicated for the local treatment of pain caused by certain otitis with an intact eardrum, such as acute congestive otitis media, flu-like otitis, or barotraumatic otitis. Its active ingredients are phenazone (4 g) and lidocaine hydrochloride (1 g) per 100 g of ear drop solution. Other components include sodium thiosulfate, glycerol, ethanol, and purified water.",
+    "Picture": "../assets/Medicaments/Otipax.png"
+  },
+  {
+    "name": "Maxilase Sore Throat Syrup",
+    "Price": "56.20 MAD",
+    "Pcs": "200 ml",
+    "Reason": "Sore throat - Anti-inflammatory enzyme - From 6 months",
+    "Pregnant": "Not allowed",
+    "Breastfeeding": "Not allowed",
+    "Form": "Syrup",
+    "Desc": "Maxilase syrup is a medication containing alpha-amylase, an enzyme with anti-inflammatory properties. Maxilase is recommended for the treatment of mild sore throats without fever, starting from the age of 6 months. For 100 ml of syrup, there are 20,000 U CEIP* of Alpha-amylase, equivalent to 14,286 U Ph. Eur. Excipients include sucrose solution, sodium methyl parahydroxybenzoate (E219), sodium propyl parahydroxybenzoate (E217), citric acid monohydrate, glycerol, mandarin essential oil, and purified water.",
+    "Picture": "../assets/Medicaments/maxilase.jpg"
+  }
+]
